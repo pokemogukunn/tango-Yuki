@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tangolevel
+    name: rennderu
     env: python
     region: Oregon
     plan: free
